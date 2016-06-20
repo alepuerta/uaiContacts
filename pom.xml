@@ -7,6 +7,9 @@
 	<artifactId>uaiContacts</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
+	
+	
+	<!-- Corre con tomcat 7 y postgresql -->
 
 	<build>
 		<finalName>uaiContacts</finalName>
